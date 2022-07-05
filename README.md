@@ -112,4 +112,15 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
    teste texte footer
    </footer>
    </boby>
+   <style>
+   p{
+   front-size: 12px;
+   front-family: arail,sans-serif;
+   color: purple;
+   }
+   
+   </style>
+   
+   
+   
 </html>
