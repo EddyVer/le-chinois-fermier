@@ -45,7 +45,7 @@ They’re proofs to that. Fall in love with someone and you’ll see that person
 
    <img
 src="http://static2.businessinsider.com/image/52fe8230eab8ea4275063b89/nasa-has-determined-where-the-mysterious-jelly-doughnut-rock-on-mars-came-from.jpg " alt= "what does he think about it?" >
-
+<hr>
 <h1>
 The story
 </h1>
@@ -57,17 +57,18 @@ Once upon a time there was a Chinese farmer whose horse ran away. That evening, 
 
 
 The following day his son tried to break one of the horses, and while riding it, he was thrown and broke his leg. The neighbors then said, “Oh dear, that’s too bad,” and the farmer responded, “Is it good? Is it bad? I don't know.” The next day the conscription officers came around to conscript people into the army, and they rejected his son because he had a broken leg. Again all the neighbors came around and said, “Isn’t that great!” Again, he said, “Is it good? Is it bad? I don't know.”
-</p>
+
 
 The whole process of nature is an integrated process of immense complexity, and it’s really impossible to tell whether anything that happens in it is good or bad — because you never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.
-
+</p>
 <em>
 Alan Watts
 </em>
 
-----
-
+<hr>
+<h3>
 Here is this dialog in the form of a table
+   </h3>
 <table>
    <tr>
       <th>Event</th> 
