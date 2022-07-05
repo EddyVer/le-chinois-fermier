@@ -4,8 +4,8 @@
 <p>
    <h1>
 The Story of the Chinese Farmer
-</h1>
-      </p>
+   </h1>
+</p>
 
 <h2>
 Is it a good thing? Is that a bad thing? I don't know.
@@ -39,10 +39,11 @@ Up in space, turning around, looking at the earth’s face. From that rock’s p
 Down here, the only reality is the one inside our brain. Nothing exists if the brain doesn’t think it. Nothing exists neither if our senses don’t transmit the message. That means that if we mis sense, our reality changes. That’s possible because our perception is limited : you can’t see at 360 degrees for example. If we mis translate the message, our reality changes. If we think it in a way, our reality changes depending on that way. Therefore, if we can change reality that much, everything’s fake.
    </p>
 
-<figure>
+<p>
 They’re proofs to that. Fall in love with someone and you’ll see that person as divine. Pull yourself out of that grip and the divine falls from clouds to solid ground, revealing him or herself differently. But the person is the same, you just changed your mind. Everything works like that : it’s not just that you can make your world, it’s that you passively do it anyway.
-</figure>
-<img
+</p>
+
+   <img
 src="http://static2.businessinsider.com/image/52fe8230eab8ea4275063b89/nasa-has-determined-where-the-mysterious-jelly-doughnut-rock-on-mars-came-from.jpg " alt= "what does he think about it?" >
 
 <h1>
