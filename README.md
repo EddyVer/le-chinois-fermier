@@ -52,9 +52,10 @@ Alan Watts
 
 Here is this dialog in the form of a table
 <table>
+   <th>
    +-------------------+---------------------+
    |                   |                     |
-   | Event             |  Good or Bad ?      |
+   | Event             |  Good or Bad ?      |</th>
    +-------------------+---------------------+
    |                   |                     |
    | Lose a horse      |  Maybe              |
