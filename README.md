@@ -18,7 +18,7 @@ In life, there are 4 types of people.
 - people who don't think about it.
 </table>
 <img
-[ Image : https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg ]/>
+src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="juste pour vois">
 <q>
 Up in space, turning around, looking at the earth’s face. From that rock’s perspective on Mars or that gaz opinion from Jupiter, nothing cares about your problems. Up there, it’s just not serious, and there’s no such thing as an issue.
 </q>
