@@ -10,13 +10,16 @@ May 11, 2016, Alexandre Gorius
 <h2>
 In nature, Good & Evil do not exist. The Universe itself is neither good nor bad, but a potential in permanent development.
 </h2>
-<table>
+<h3>
 In life, there are 4 types of people.
-- people who think the Internet is good,
-- people who think the Internet is evil,
-- people who think the Internet is cats,
-- people who don't think about it.
-</table>
+   </h3>
+   <ul>
+   <li>
+      - people who think the Internet is good,</li>
+      <li>- people who think the Internet is evil,</li>
+   <li>- people who think the Internet is cats,</li>
+   <li>- people who don't think about it.</li>
+</lu>
 <img
 src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="juste pour vois">
 <q>
