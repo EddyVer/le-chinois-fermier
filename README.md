@@ -1,8 +1,10 @@
 # le fermier chinois
-
+<html>
 <p>
+   <h1>
 The Story of the Chinese Farmer
-</p>
+</h1>
+      </p>
 
 <h1>
 Is it a good thing? Is that a bad thing? I don't know.
@@ -100,3 +102,4 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
 <footer>
    teste texte footer
    </footer>
+</html>
