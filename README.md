@@ -108,10 +108,9 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
    <tag attribute="valeur">content</tag>
 
 
-   <footer>
-   teste texte footer
-   </footer>
    </boby>
+   
+   
    <style>
    p{
    front-size: 12px;
