@@ -56,9 +56,10 @@ Alan Watts
 Here is this dialog in the form of a table
 <table>
    <tr>
-   +-------------------+---------------------+
-   |                   |                     |
-      | <th>Event</th>             | <th> Good or Bad ? </th>     |</tr>
+      <th>Event</th> 
+      <th> Good or Bad ? </th>   
+   </tr>
+   
    +-------------------+---------------------+
    |                   |                     |
    | Lose a horse      |  Maybe              |
