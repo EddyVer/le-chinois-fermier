@@ -76,9 +76,9 @@ Here is this dialog in the form of a table
 </table>
    Table representing the farmer's philosophy.
    
-   
+ <strong>  
 Conclusion  
 Good and Bad are just one perspective. Bananas are good for monkeys, but monkeys are not good for bananas. Let's not make a big deal out of it...
-
+</strong>
 ----
 Copyright Just Another Company 2017. All right reserved. Adapted from this article: https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/
