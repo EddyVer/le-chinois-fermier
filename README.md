@@ -1,5 +1,6 @@
 # le fermier chinois
 <html>
+   <boby>
 <p>
    <h1>
 The Story of the Chinese Farmer
@@ -34,8 +35,9 @@ Up in space, turning around, looking at the earth’s face. From that rock’s p
 </q>
 
 <hr>
+   <p>
 Down here, the only reality is the one inside our brain. Nothing exists if the brain doesn’t think it. Nothing exists neither if our senses don’t transmit the message. That means that if we mis sense, our reality changes. That’s possible because our perception is limited : you can’t see at 360 degrees for example. If we mis translate the message, our reality changes. If we think it in a way, our reality changes depending on that way. Therefore, if we can change reality that much, everything’s fake.
-</hr>
+   </p>
 
 <figure>
 They’re proofs to that. Fall in love with someone and you’ll see that person as divine. Pull yourself out of that grip and the divine falls from clouds to solid ground, revealing him or herself differently. But the person is the same, you just changed your mind. Everything works like that : it’s not just that you can make your world, it’s that you passively do it anyway.
@@ -102,4 +104,5 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
 <footer>
    teste texte footer
    </footer>
+   </boby>
 </html>
