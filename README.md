@@ -10,13 +10,13 @@ May 11, 2016, Alexandre Gorius
 <h2>
 In nature, Good & Evil do not exist. The Universe itself is neither good nor bad, but a potential in permanent development.
 </h2>
-<blockquote>
+<table>
 In life, there are 4 types of people.
 - people who think the Internet is good,
 - people who think the Internet is evil,
 - people who think the Internet is cats,
 - people who don't think about it.
-</blockquote>
+</table>
 <img
 [ Image : https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg ]/>
 <q>
@@ -39,9 +39,9 @@ The story
 <caption>
 Once upon a time there was a Chinese farmer whose horse ran away. That evening, all of his neighbors came around to commiserate. They said, “We are so sorry to hear your horse has run away. This is most unfortunate.” The farmer said, “Is it good? Is it bad? I don't know.” The next day the horse came back bringing seven wild horses with it, and in the evening everybody came back and said, “Oh, isn’t that lucky. What a great turn of events. You now have eight horses!” The farmer again said, “Is it good? Is it bad? I don't know.” 
 </caption>
-<table>
-The following day his son tried to break one of the horses, and while riding it, he was thrown and broke his leg. The neighbors then said, “Oh dear, that’s too bad,” and the farmer responded, “Is it good? Is it bad? I don't know.” The next day the conscription officers came around to conscript people into the army, and they rejected his son because he had a broken leg. Again all the neighbors came around and said, “Isn’t that great!” Again, he said, “Is it good? Is it bad? I don't know.”
-</table>
+
+<li>The following day his son tried to break one of the horses, and while riding it, he was thrown and broke his leg. The neighbors then said, “Oh dear, that’s too bad,” and the farmer responded, “Is it good? Is it bad? I don't know.” The next day the conscription officers came around to conscript people into the army, and they rejected his son because he had a broken leg. Again all the neighbors came around and said, “Isn’t that great!” Again, he said, “Is it good? Is it bad? I don't know.”
+</li>
 <th>
 The whole process of nature is an integrated process of immense complexity, and it’s really impossible to tell whether anything that happens in it is good or bad — because you never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.
 </th>
@@ -51,14 +51,14 @@ Alan Watts
 ----
 
 Here is this dialog in the form of a table
-
+<table>
    +-------------------+---------------------+
    |                   |                     |
    | Event             |  Good or Bad ?      |
    +-------------------+---------------------+
    |                   |                     |
    | Lose a horse      |  Maybe              |
-   +-------------------+---------------------+
+   +------------------+---------------------+
    |                   |                     |
    | Win more horses   |  Maybe              |
    +-------------------+---------------------+
@@ -68,6 +68,7 @@ Here is this dialog in the form of a table
    |                   |                     |
    | Avoid war	       |  Maybe              |
    +-------------------+---------------------+
+</table>
    Table representing the farmer's philosophy.
    
    
