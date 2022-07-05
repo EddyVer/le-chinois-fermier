@@ -96,3 +96,7 @@ Good and Bad are just one perspective. Bananas are good for monkeys, but monkeys
 Copyright Just Another Company 2017. All right reserved. Adapted from this article: https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/
 </em>
 <tag test="test">contenu test</tag>
+
+<footer>
+   teste texte footer
+   </footer>
