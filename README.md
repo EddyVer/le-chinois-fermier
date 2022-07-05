@@ -1,6 +1,7 @@
 # le fermier chinois
+<p>
 The Story of the Chinese Farmer
-
+</p>
 Is it a good thing? Is that a bad thing? I don't know.
 May 11, 2016, Alexandre Gorius
 
