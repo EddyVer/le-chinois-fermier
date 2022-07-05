@@ -59,20 +59,22 @@ Here is this dialog in the form of a table
       <th>Event</th> 
       <th> Good or Bad ? </th>   
    </tr>
-   
-   +-------------------+---------------------+
-   |                   |                     |
-   | Lose a horse      |  Maybe              |
-   +------------------+---------------------+
-   |                   |                     |
-   | Win more horses   |  Maybe              |
-   +-------------------+---------------------+
-   |                   |                     |
-   | Son injury        |  Maybe              |
-   +-------------------+---------------------+
-   |                   |                     |
-   | Avoid war	       |  Maybe              |
-   +-------------------+---------------------+
+   <tr>
+      <th> Lose a horse</th> 
+      <th>Maybe</th> 
+   </tr>
+  <tr>
+     <th>Win more horses</th> 
+     <th>Maybe</th>
+   </tr>
+   <tr>
+      <th>Son injury</th> 
+      <th>Maybe</th> 
+   </tr>
+   <tr>
+      <th>Avoid war</th>	 
+      <th>Maybe</th>
+   </tr>
 </table>
    Table representing the farmer's philosophy.
    
