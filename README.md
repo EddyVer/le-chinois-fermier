@@ -6,18 +6,18 @@ The Story of the Chinese Farmer
 </h1>
       </p>
 
-<h1>
+<h2>
 Is it a good thing? Is that a bad thing? I don't know.
 May 11, 2016, Alexandre Gorius
-</h1>
-
-<h2>
-In nature, Good & Evil do not exist. The Universe itself is neither good nor bad, but a potential in permanent development.
 </h2>
 
 <h3>
+In nature, Good & Evil do not exist. The Universe itself is neither good nor bad, but a potential in permanent development.
+</h3>
+
+<h4>
 In life, there are 4 types of people.
-   </h3>
+   </h4>
    <ul>
    <li>
       - people who think the Internet is good,</li>
