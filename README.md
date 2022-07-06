@@ -1,7 +1,7 @@
 c# le fermier chinois
 <!DOCTYPE html>
 <boby>
-<h1>
+<h1 class = Hcolor>
 The Story of the Chinese Farmer
 </h1>
 <h2>
@@ -17,7 +17,7 @@ In life, there are 4 types of people.
    <ul>
    <li>
       - people who think the Internet is good,</li>
-      <li>- people who think the Internet is evil,</li>
+   <li>- people who think the Internet is evil,</li>
    <li>- people who think the Internet is cats,</li>
    <li>- people who don't think about it.</li>
 </lu>
@@ -25,29 +25,26 @@ In life, there are 4 types of people.
 <img
 src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="juste pour vois" usemap="#test" width="500" hieght="600">
 <map name="test">
-<area shape="rect" coords="34,44,27,37" alt="compture" href="https://www.google.com/search?q=image&client=firefox-b-d&sxsrf=ALiCzsaeooh_EUvMCAGl16bokazauAq--A:1657095449318&tbm=isch&source=iu&ictx=1&vet=1&fir=3eRt9lrXKzvA_M%252CYMrfs-kIZ4Ew8M%252C_%253Bsp12V8x9gw6KuM%252C4O2GvGuD-Cf09M%252C_%253BDH7p1w2o_fIU8M%252CBa_eiczVaD9-zM%252C_%253B2DNOEjVi-CBaYM%252CAOz9-XMe1ixZJM%252C_%253Bn5hAWsQ-sgKo_M%252C-UStXW0dQEx4SM%252C_%253B3IXu_B6aFF85vM%252C_6QxPNf0_WXlCM%252C_%253B-VCM1w56w6u5VM%252CaVwfeogQqK1XmM%252C_%253Bz4_uU0QB2pe-SM%252C7SySw5zvOgPYAM%252C_%253B2nDXavJs9DoKTM%252CB51x0PBR9KNzvM%252C_%253BkwgHAQqTiLQXLM%252CR0KnAtfyBDsyiM%252C_%253BMOAYgJU89sFKnM%252CygIoihldBPn-LM%252C_%253BsI3XXpFjQg61vM%252C0_HmqFdutkPVdM%252C_%253B7QZBd9RaYaUYjM%252CJu-2V_Fzujza9M%252C_&usg=AI4_-kQVMNqNg65kAuT02NFnnbwU-jH6YA&sa=X&ved=2ahUKEwiM7vXM6eP4AhVHKewKHbV3DiwQ9QF6BAgcEAE#imgrc=DH7p1w2o_fIU8M">
-</map>
+
 <img src="https://static.wikia.nocookie.net/4fe57225-8c4d-4369-8b50-d878611ad78a/scale-to-width/755" alt="smiley face" width="100" hieght="100">
 
-   <q>
-Up in space, turning around, looking at the earth’s face. From that rock’s perspective on Mars or that gaz opinion from Jupiter, nothing cares about your problems. Up there, it’s just not serious, and there’s no such thing as an issue.
-</q>
-
-<hr>
    <p>
-Down here, the only reality is the one inside our brain. Nothing exists if the brain doesn’t think it. Nothing exists neither if our senses don’t transmit the message. That means that if we mis sense, our reality changes. That’s possible because our perception is limited : you can’t see at 360 degrees for example. If we mis translate the message, our reality changes. If we think it in a way, our reality changes depending on that way. Therefore, if we can change reality that much, everything’s fake.
-   </p>
+Up in space, turning around, looking at the earth’s face. From that rock’s perspective on Mars or that gaz opinion from Jupiter, nothing cares about your problems. Up there, it’s just not serious, and there’s no such thing as an issue.
+</p>
 
 <p>
+Down here, the only reality is the one inside our brain. Nothing exists if the brain doesn’t think it. Nothing exists neither if our senses don’t transmit the message. That means that if we mis sense, our reality changes. That’s possible because our perception is limited : you can’t see at 360 degrees for example. If we mis translate the message, our reality changes. If we think it in a way, our reality changes depending on that way. Therefore, if we can change reality that much, everything’s fake.
+
 They’re proofs to that. Fall in love with someone and you’ll see that person as divine. Pull yourself out of that grip and the divine falls from clouds to solid ground, revealing him or herself differently. But the person is the same, you just changed your mind. Everything works like that : it’s not just that you can make your world, it’s that you passively do it anyway.
 </p>
+
 <img
 src="http://static2.businessinsider.com/image/52fe8230eab8ea4275063b89/nasa-has-determined-where-the-mysterious-jelly-doughnut-rock-on-mars-came-from.jpg " alt= "what does he think about it?" >
-
-
+<hr>
 <h1>
 The story
 </h1>
+
 <img
 src="https://cdn-images-1.medium.com/max/800/1*IQqkmPXYZuJViY5p-ymk0A.jpeg" alt="good" >
 
@@ -97,12 +94,12 @@ Conclusion
 Good and Bad are just one perspective. Bananas are good for monkeys, but monkeys are not good for bananas. Let's not make a big deal out of it...
 </strong>
    </p>
-<em>
+<em >
 Copyright Just Another Company 2017. All right reserved. Adapted from this article: https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/
 </em>
 
-   <p class="humain" name="eddy" nationalite="belge">
-      eddy est peut-être belge qui sait
+   <p>
+     il est peut-être belge qui sait '-'
    </p>
    <tag attribute="valeur">content</tag>
 
@@ -110,7 +107,7 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
    juste une test
    </p>
    
-   <div id="Box">
+   <div class = Box>
    se texte est un teste pour les box model 
    kldkhfgmsfhgsmkfgh
    skfjghsmkjfhgs
@@ -125,10 +122,13 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
 <style>
       
    body {
-         background-image : "https://static.wixstatic.com/media/a27d24_6f9639ba19854e47990e42c3ae2d88cb~mv2.jpg";
-
-      }
-   h1{
+         background-image : url("https://static.wixstatic.com/media/a27d24_6f9639ba19854e47990e42c3ae2d88cb~mv2.jpg");
+         background-repeat:no-repeat;
+         background-position: upright;
+         background-size:500px 300px;
+         }
+   
+   h1.Hcolor{
       color:blue;
    }
    
@@ -138,13 +138,16 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
    color: purple;
    }
 
-   #Box {
+   div.Box {
        background-color:blue;
       width: 200px;
       border:5px solid red;
       padding:50px;
       margin:20px;
 
+   }
+   em.cem{
+      
    }
    
    </style>
