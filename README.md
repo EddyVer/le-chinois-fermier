@@ -115,10 +115,14 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
    
    
    <style>
-      boby {
+      
+   body {
          background-color : powderblue;
 
       }
+   h1{
+      color:blue;
+   }
    
    p {
    front-size: 12px;
