@@ -28,7 +28,7 @@ In life, there are 4 types of people.
 </lu>
 
 <img
-src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="juste pour vois">
+src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="juste pour vois" width="500" hieght="600">
 
 <q>
 Up in space, turning around, looking at the earth’s face. From that rock’s perspective on Mars or that gaz opinion from Jupiter, nothing cares about your problems. Up there, it’s just not serious, and there’s no such thing as an issue.
@@ -50,7 +50,7 @@ src="http://static2.businessinsider.com/image/52fe8230eab8ea4275063b89/nasa-has-
 The story
 </h1>
 <img
-src="https://cdn-images-1.medium.com/max/800/1*IQqkmPXYZuJViY5p-ymk0A.jpeg" Alt="The Old Chinese Farmer" >
+src="https://cdn-images-1.medium.com/max/800/1*IQqkmPXYZuJViY5p-ymk0A.jpeg" alt="good" >
 
 <p>
 Once upon a time there was a Chinese farmer whose horse ran away. That evening, all of his neighbors came around to commiserate. They said, “We are so sorry to hear your horse has run away. This is most unfortunate.” The farmer said, “Is it good? Is it bad? I don't know.” The next day the horse came back bringing seven wild horses with it, and in the evening everybody came back and said, “Oh, isn’t that lucky. What a great turn of events. You now have eight horses!” The farmer again said, “Is it good? Is it bad? I don't know.” 
