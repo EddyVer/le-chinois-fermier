@@ -6,7 +6,6 @@ c# le fermier chinois
 The Story of the Chinese Farmer
    </h1>
 </p>
-
 <h2>
 Is it a good thing? Is that a bad thing? I don't know.
 May 11, 2016, Alexandre Gorius
@@ -30,7 +29,7 @@ In life, there are 4 types of people.
 <img
 src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="juste pour vois" usemap="#test" width="500" hieght="600">
 <map name="test">
-<area shape="rect" coords="34,44,27,350" alt="compture" href="computer.htm">
+<area shape="rect" coords="34,44,27,37" alt="compture" href="https://www.google.com/search?q=image&client=firefox-b-d&sxsrf=ALiCzsaeooh_EUvMCAGl16bokazauAq--A:1657095449318&tbm=isch&source=iu&ictx=1&vet=1&fir=3eRt9lrXKzvA_M%252CYMrfs-kIZ4Ew8M%252C_%253Bsp12V8x9gw6KuM%252C4O2GvGuD-Cf09M%252C_%253BDH7p1w2o_fIU8M%252CBa_eiczVaD9-zM%252C_%253B2DNOEjVi-CBaYM%252CAOz9-XMe1ixZJM%252C_%253Bn5hAWsQ-sgKo_M%252C-UStXW0dQEx4SM%252C_%253B3IXu_B6aFF85vM%252C_6QxPNf0_WXlCM%252C_%253B-VCM1w56w6u5VM%252CaVwfeogQqK1XmM%252C_%253Bz4_uU0QB2pe-SM%252C7SySw5zvOgPYAM%252C_%253B2nDXavJs9DoKTM%252CB51x0PBR9KNzvM%252C_%253BkwgHAQqTiLQXLM%252CR0KnAtfyBDsyiM%252C_%253BMOAYgJU89sFKnM%252CygIoihldBPn-LM%252C_%253BsI3XXpFjQg61vM%252C0_HmqFdutkPVdM%252C_%253B7QZBd9RaYaUYjM%252CJu-2V_Fzujza9M%252C_&usg=AI4_-kQVMNqNg65kAuT02NFnnbwU-jH6YA&sa=X&ved=2ahUKEwiM7vXM6eP4AhVHKewKHbV3DiwQ9QF6BAgcEAE#imgrc=DH7p1w2o_fIU8M">
 </map>
 <img src="https://static.wikia.nocookie.net/4fe57225-8c4d-4369-8b50-d878611ad78a/scale-to-width/755" alt="smiley face" width="100" hieght="100">
 
@@ -46,10 +45,10 @@ Down here, the only reality is the one inside our brain. Nothing exists if the b
 <p>
 They’re proofs to that. Fall in love with someone and you’ll see that person as divine. Pull yourself out of that grip and the divine falls from clouds to solid ground, revealing him or herself differently. But the person is the same, you just changed your mind. Everything works like that : it’s not just that you can make your world, it’s that you passively do it anyway.
 </p>
-
-   <img
+<img
 src="http://static2.businessinsider.com/image/52fe8230eab8ea4275063b89/nasa-has-determined-where-the-mysterious-jelly-doughnut-rock-on-mars-came-from.jpg " alt= "what does he think about it?" >
-<hr>
+
+
 <h1>
 The story
 </h1>
@@ -115,13 +114,21 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
    juste une test
    </p>
    <hr>
-   </boby>
+   <div>se texte est un teste pour les box model 
+   kldkhfgmsfhgsmkfgh
+   skfjghsmkjfhgs
+   skfjghsmkfjhglskjfhgs
+   sfkjghlkfjghiuhgklsfjdgksjhfuughskhgĝh
+   uuhfoqhflkqjhdflqkhdfqg
+   qsdjhfqlkdjhfhhjhdfjksjhfksjdlfqkjhfqiuhfqkdjhflksdjhfihefihlkjqhdf
+   </div>
+ </boby>
    
    
    <style>
       
    body {
-         background-color : powderblue;
+         background-color : black;
 
       }
    h1{
@@ -129,9 +136,18 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
    }
    
    p {
-   front-size: 12px;
-   front-family: arail,sans-serif;
+   font-size: 12px;
+   font-family: arail,sans-serif;
    color: purple;
+   }
+
+   div {
+       background-color:lightgrey;
+      width: 200px;
+      border:20px solid red;
+      padding:50px;
+      margin:20px;
+
    }
    
    </style>
