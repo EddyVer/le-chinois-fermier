@@ -32,7 +32,7 @@ src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt
 <map name="test">
 <area shape="rect" coords="34,44,27,350" alt="compture" href="computer.htm">
 </map>
-<img src="smiley.gif" alt="smiley face">
+<img src="https://static.wikia.nocookie.net/4fe57225-8c4d-4369-8b50-d878611ad78a/scale-to-width/755" alt="smiley face" width="100" hieght="100">
 <q>
 Up in space, turning around, looking at the earth’s face. From that rock’s perspective on Mars or that gaz opinion from Jupiter, nothing cares about your problems. Up there, it’s just not serious, and there’s no such thing as an issue.
 </q>
