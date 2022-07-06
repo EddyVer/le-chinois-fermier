@@ -60,7 +60,7 @@ The following day his son tried to break one of the horses, and while riding it,
 
 
 The whole process of nature is an integrated process of immense complexity, and it’s really impossible to tell whether anything that happens in it is good or bad — because you never know what will be the consequence of the misfortune; or, you never know what will be the consequences of good fortune.
-bien.png
+
 
 </p>
 <em>
