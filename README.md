@@ -30,9 +30,9 @@ In life, there are 4 types of people.
 <img
 src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="juste pour vois" usemap="#test" width="500" hieght="600">
 <map name="test">
-<area shape="rect" coords = "34,44,27,350" alt = "compture" href="computer.htm">
+<area shape="rect" coords="34,44,27,350" alt="compture" href="computer.htm">
 </map>
-
+<img src="smiley.gif" alt="smiley face">
 <q>
 Up in space, turning around, looking at the earth’s face. From that rock’s perspective on Mars or that gaz opinion from Jupiter, nothing cares about your problems. Up there, it’s just not serious, and there’s no such thing as an issue.
 </q>
