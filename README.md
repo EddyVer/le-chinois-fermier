@@ -1,20 +1,16 @@
 c# le fermier chinois
-<html>
-   <boby>
-<p>
-   <h1>
+<!DOCTYPE html>
+<boby>
+<h1>
 The Story of the Chinese Farmer
-   </h1>
-</p>
+</h1>
 <h2>
 Is it a good thing? Is that a bad thing? I don't know.
 May 11, 2016, Alexandre Gorius
 </h2>
-
 <h3>
 In nature, Good & Evil do not exist. The Universe itself is neither good nor bad, but a potential in permanent development.
 </h3>
-
 <h4>
 In life, there are 4 types of people.
    </h4>
@@ -113,8 +109,9 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
    <p>
    juste une test
    </p>
-   <hr>
-   <div>se texte est un teste pour les box model 
+   
+   <div id="Box">
+   se texte est un teste pour les box model 
    kldkhfgmsfhgsmkfgh
    skfjghsmkjfhgs
    skfjghsmkfjhglskjfhgs
@@ -122,13 +119,13 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
    uuhfoqhflkqjhdflqkhdfqg
    qsdjhfqlkdjhfhhjhdfjksjhfksjdlfqkjhfqiuhfqkdjhflksdjhfihefihlkjqhdf
    </div>
+ 
  </boby>
    
-   
-   <style>
+<style>
       
    body {
-         background-color : black;
+         background-image : "https://static.wixstatic.com/media/a27d24_6f9639ba19854e47990e42c3ae2d88cb~mv2.jpg";
 
       }
    h1{
@@ -141,17 +138,17 @@ Copyright Just Another Company 2017. All right reserved. Adapted from this artic
    color: purple;
    }
 
-   div {
-       background-color:lightgrey;
+   #Box {
+       background-color:blue;
       width: 200px;
-      border:20px solid red;
+      border:5px solid red;
       padding:50px;
       margin:20px;
 
    }
    
    </style>
-   
+ 
    
    
 </html>
