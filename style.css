@@ -1,9 +1,32 @@
 .box{
-
-    margin: 20px;
     background-color: rgb(31, 164, 204);
-    width: 300px;
+    width: 500px;
     border: 15px solid green;
     padding: 50px;
-
+    margin: 20px;
 }
+
+p{
+    color:purple;
+}
+
+ body{
+    margin: center;
+    width: 90%;
+    border: 30px;
+    background-image: url("https://www.letsgoout-bournemouthandpoole.co.uk/wp-content/uploads/2018/01/14061_Alum-Chine.jpg")  ;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 300px ;
+}
+
+.header{
+    padding:60px;
+    text-align: center;
+    background: rgb(219, 95, 12);
+    color: black;
+    font-size: 30px;
+}
+
+
+
