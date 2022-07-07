@@ -1,9 +1,10 @@
 .box{
-    background-color: rgb(31, 164, 204);
-    width: 500px;
+    
+    width: 300px;
     border: 15px solid green;
-    padding: 50px;
+    padding: 30px;
     margin: 20px;
+    
 }
 
 p{
@@ -29,9 +30,7 @@ p{
 }
 
 #farmer{
-    
     color: rgb(21, 228, 83);
-
 }
 
 #villager {
