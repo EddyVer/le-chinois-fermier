@@ -1,7 +1,7 @@
 .box{
     width: 300px;
     border: 15px solid green;
-    padding: 30px;
+    padding: .30rem 5rem;
     margin: 20px;
 }
 
@@ -27,11 +27,11 @@ p{
     font-size: 30px;
 }
 
-#farmer{
+.farmer:first-child{
     color: rgb(21, 228, 83);
 }
 
-#villager {
+.villager {
     color: brown;
 }
 
