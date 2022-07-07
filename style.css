@@ -28,7 +28,7 @@ p{
     font-size: 30px;
 }
 
-#farmer:first-child {
+#farmer{
     
     color: rgb(21, 228, 83);
 
@@ -71,6 +71,12 @@ p{
     
 }
 
+#imageChat{
+    background-image: url("https://raw.githubusercontent.com/becodeorg/CRL-Wilson-1/master/Assets/chat.png?token=GHSAT0AAAAAABWCGVRSFXRRES3B4UVYTGGWYWGXF2A");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
 
 
 
