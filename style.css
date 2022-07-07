@@ -1,10 +1,8 @@
 .box{
-    
     width: 300px;
     border: 15px solid green;
     padding: 30px;
     margin: 20px;
-    
 }
 
 p{
@@ -56,25 +54,34 @@ p{
     color: white;
 }
 
-#imagegood{
-    background-image: url("https://raw.githubusercontent.com/becodeorg/CRL-Wilson-1/master/Assets/bien.png?token=GHSAT0AAAAAABWCGVRTQ7YFFGA2Z54YOXTGYWGWVJA");
+#imageGood{
+    background-image: url("file:///home/melonde-zeus/accets/bien.png");
     background-position: right ;
     background-repeat: no-repeat;
     background-size: 7%;
 }
-#imagebad{
-    background-image: url("https://raw.githubusercontent.com/becodeorg/CRL-Wilson-1/master/Assets/mal.png?token=GHSAT0AAAAAABWCGVRTLPZHLXGAXAERG3QSYWGW76Q");
+#imageBad{
+    background-image: url("file:///home/melonde-zeus/accets/mal.png");
     background-position: right;
     background-repeat: no-repeat;
     background-size: 20%;
-    
 }
 
 #imageChat{
-    background-image: url("https://raw.githubusercontent.com/becodeorg/CRL-Wilson-1/master/Assets/chat.png?token=GHSAT0AAAAAABWCGVRSFXRRES3B4UVYTGGWYWGXF2A");
+    background-image: url("file:///home/melonde-zeus/accets/chat.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: auto;
+}
+
+.imgFloatRight{
+    float: right;
+    margin: 10px;
+}
+
+.imgFloatLeft{
+    float: left;
+    margin: 20px;
 }
 
 
