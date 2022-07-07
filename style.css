@@ -1,8 +1,8 @@
 .box{
     width: 300px;
     border: 15px solid green;
-    padding: .30rem 5rem;
-    margin: 20px;
+    padding: 20px;
+    margin:5px;
 }
 
 p{
@@ -10,7 +10,7 @@ p{
 }
 
  body{
-    margin: center;
+    margin:auto;
     width: 90%;
     border: 30px;
     background-image: url("https://www.letsgoout-bournemouthandpoole.co.uk/wp-content/uploads/2018/01/14061_Alum-Chine.jpg")  ;
@@ -27,7 +27,10 @@ p{
     font-size: 30px;
 }
 
-.farmer:first-child{
+.allElement{
+
+}
+.farmer{
     color: rgb(21, 228, 83);
 }
 
